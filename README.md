@@ -1,4 +1,4 @@
-<h2> Seeds Database Analysis in R </h2>
+<h2> Seed Database Analysis in R </h2>
 
 <h3> Project for <a href="https://keepcoding.io"/>KeepCoding's</a> R Course </h3>
 
